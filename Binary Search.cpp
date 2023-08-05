@@ -42,7 +42,7 @@ int main()
 
 int index = Binary_search(array ,n, key);
 
-if (index != 69)
+if (index != -1)
 {
     cout << "Found in index!" << index +1 <<endl;
 }
