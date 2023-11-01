@@ -1,6 +1,7 @@
 //C program to search element in array
 
 #include <stdio.h>
+
 int main()
 {
     int arr[100];
